@@ -1,22 +1,30 @@
 # Airbnb Clone – User Stories
 
-This document captures the core user stories derived from the system's use case diagram. These stories guide feature development by focusing on user goals and outcomes.
+# Core User Stories
 
-# 👤 User Stories
+# 1. User Registration (Guest/Host)
+As a user, I want to be able to register an account so that I can list my properties.
 
-1. User Registration
-As a user, I want to be able to register an account so that I can book or list properties.
-2. Property Listing (Host)
-As a host, I want to add new property listings so that guests can book my space.**
+# 2. User Login & Authentication
+As a user, I want to log into my account securely so that I can manage my bookings or listings.
 
-3. Property Booking (Guest)
-As a guest, I want to book a property for specific dates so that I can stay during my trip.
+# 3. Property Listing (Host)
+As a host, I want to add new property listings so that they are visible to potential guests.
 
-4. Payment Processing
-As a guest, I want to securely pay for my booking so that my reservation is confirmed.**
+# 4. Booking a Property (Guest)
+As a guest, I want to book a property for specific dates so that I can secure a place to stay.
 
-5. Admin Moderation
-As an admin, I want to manage users and property listings so that I can maintain platform quality and safety.**
+# 5. Payment for Booking (Guest)
+As a guest, I want to pay for my booking online so that I can confirm my reservation.
 
+# 6. Cancel Booking (Guest/Host)
+As a guest or host, I want to cancel a booking under certain conditions so that I can update my plans.
 
+# 7. Leave a Review (Guest)
+As a guest, I want to leave a review after a stay so that I can share my experience with others.
+
+# 8. Admin User Management
+As an admin, I want to view and manage users, listings, and bookings so that I can ensure platform safety and compliance.
+
+---
 
